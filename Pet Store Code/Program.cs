@@ -3,7 +3,6 @@ using pets;
 using supplies;
 using uiManager;
 using workers;
-using hash;
 
 namespace program
 {

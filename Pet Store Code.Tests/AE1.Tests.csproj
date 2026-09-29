@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AE1\AE1.csproj" />
+    <ProjectReference Include="..\Pet Store Code\AE1.csproj" />
   </ItemGroup>
 
 </Project>
